@@ -86,4 +86,4 @@ El entorno incluye la siguiente estructura de carpetas:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la Licencia Apache License 2.0. Para más detalles, consulta el archivo [LICENSE](LICENSE).
